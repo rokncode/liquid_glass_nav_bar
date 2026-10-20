@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:liquid_glass_nav_bar/liquid_glass_nav_bar.dart';
-import 'package:liquid_glass_nav_bar_example/main.dart';
+import 'package:liquid_glass_floating_tab_bar/liquid_glass_floating_tab_bar.dart';
+import 'package:liquid_glass_floating_tab_bar_example/main.dart';
 
 void main() {
   testWidgets('the example app switches tabs', (tester) async {

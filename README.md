@@ -1,4 +1,4 @@
-# liquid_glass_nav_bar
+# liquid_glass_floating_tab_bar
 
 An iOS 26 **"Liquid Glass"** floating tab bar for Flutter, like the one in the latest Instagram iOS app.
 
@@ -19,13 +19,13 @@ An iOS 26 **"Liquid Glass"** floating tab bar for Flutter, like the one in the l
 
 ```yaml
 dependencies:
-  liquid_glass_nav_bar: ^0.1.0
+  liquid_glass_floating_tab_bar: ^0.1.0
 ```
 
 ## Quick start
 
 ```dart
-import 'package:liquid_glass_nav_bar/liquid_glass_nav_bar.dart';
+import 'package:liquid_glass_floating_tab_bar/liquid_glass_floating_tab_bar.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});

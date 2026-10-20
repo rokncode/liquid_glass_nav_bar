@@ -1,4 +1,4 @@
-name: liquid_glass_nav_bar
+name: liquid_glass_floating_tab_bar
 description: >-
   An iOS 26 "Liquid Glass" floating tab bar for Flutter. It has a frosted blur,
   shrinks on scroll, and has a draggable lens indicator that springs between

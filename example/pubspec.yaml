@@ -1,5 +1,5 @@
-name: liquid_glass_nav_bar_example
-description: Demo app for the liquid_glass_nav_bar package.
+name: liquid_glass_floating_tab_bar_example
+description: Demo app for the liquid_glass_floating_tab_bar package.
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  liquid_glass_nav_bar:
+  liquid_glass_floating_tab_bar:
     path: ../
 
 dev_dependencies:

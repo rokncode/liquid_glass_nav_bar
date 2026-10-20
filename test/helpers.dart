@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:liquid_glass_nav_bar/liquid_glass_nav_bar.dart';
-import 'package:liquid_glass_nav_bar/src/glass_surface.dart';
-import 'package:liquid_glass_nav_bar/src/indicator_painter.dart';
+import 'package:liquid_glass_floating_tab_bar/liquid_glass_floating_tab_bar.dart';
+import 'package:liquid_glass_floating_tab_bar/src/glass_surface.dart';
+import 'package:liquid_glass_floating_tab_bar/src/indicator_painter.dart';
 
 const avatarKey = Key('avatar');
 

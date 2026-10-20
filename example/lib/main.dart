@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:liquid_glass_nav_bar/liquid_glass_nav_bar.dart';
+import 'package:liquid_glass_floating_tab_bar/liquid_glass_floating_tab_bar.dart';
 
 void main() => runApp(const LiquidGlassExampleApp());
 

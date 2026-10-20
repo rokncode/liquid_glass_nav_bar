@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:liquid_glass_nav_bar/liquid_glass_nav_bar.dart';
-import 'package:liquid_glass_nav_bar/src/geometry.dart';
-import 'package:liquid_glass_nav_bar/src/scroll_shrink.dart';
+import 'package:liquid_glass_floating_tab_bar/liquid_glass_floating_tab_bar.dart';
+import 'package:liquid_glass_floating_tab_bar/src/geometry.dart';
+import 'package:liquid_glass_floating_tab_bar/src/scroll_shrink.dart';
 
 void main() {
   group('NavBarGeometry', () {
