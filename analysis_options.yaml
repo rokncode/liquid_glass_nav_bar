@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - public_member_api_docs
+    - prefer_const_constructors
+    - prefer_final_locals
+    - always_declare_return_types
+    - unawaited_futures
+
+analyzer:
+  exclude:
+    - example/**
+  errors:
+    public_member_api_docs: warning
