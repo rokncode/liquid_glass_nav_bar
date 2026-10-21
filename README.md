@@ -13,7 +13,7 @@ An iOS 26 **"Liquid Glass"** floating tab bar for Flutter, like the one in the l
 | :---: | :---: |
 | ![Shrink on scroll](doc/shrink.gif) | ![Drag between tabs](doc/drag.gif) |
 
-<sub>Recorded on an iPhone 18 Pro simulator running `example/integration_test/demo_test.dart`. The green crosshair is the simulator's touch indicator.</sub>
+<sub>Recorded from the example app in `example/`.</sub>
 
 ## Install
 
